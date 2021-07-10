@@ -14,7 +14,9 @@
 
 https://nawycooingstate.herokuapp.com/
 
-# site deployed on https://nawycooingstate.netlify.app/
+# site deployed on
+
+https://nawycooingstate.netlify.app/
 
 # note 
  the app not contain further validation for input or managing errors
