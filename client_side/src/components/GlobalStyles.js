@@ -8,6 +8,6 @@ const GlobalStyles = createGlobalStyle`
         overflow-x:hidden;
     }
 
-`
+`;
 
 export default GlobalStyles;
