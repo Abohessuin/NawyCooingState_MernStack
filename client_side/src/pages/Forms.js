@@ -8,7 +8,7 @@ const Forms = ({ currentId, setCurrentId }) => {
       <div className="background">
         <img src={backgorund} alt="background" />
       </div>
-      <Incontainer>
+     
         <FormBack>
           <div className="content">
             <h1>Get in touch with us!</h1>
@@ -18,7 +18,7 @@ const Forms = ({ currentId, setCurrentId }) => {
             <Form currentId={currentId} setCurrentId={setCurrentId} />
           </div>
         </FormBack>
-      </Incontainer>
+     
     </Container>
   );
 };
@@ -35,10 +35,7 @@ const Container = styled.div`
   }
 `;
 
-const Incontainer = styled.div`
-  width: 100%;
-  position: relative;
-`;
+
 
 const FormBack = styled.div`
   height: 13rem;
@@ -59,7 +56,7 @@ const FormBack = styled.div`
   .theform {
     position: absolute;
     right: 15rem;
-    top: 15rem;
+    top: 13rem;
     right: 18rem;
     z-index: 1;
   }
