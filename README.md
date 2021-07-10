@@ -7,7 +7,7 @@
 2- for client-> cd client_side/memoriesc
    for server ->cd server_side
    
-3- then run npm start for bith sides 
+3- then run npm start for both sides 
 
 
 # backend API_URL
